@@ -64,3 +64,5 @@ while (guessMe < 100) {
     // console.log('guess me is now ' + guessMe)
 }
 console.log(guessMe)
+
+// This is a comment.
