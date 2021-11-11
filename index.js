@@ -1,16 +1,16 @@
 // let backPack = []
 
-// // backPack.push('sword')
-// // backPack.push('shield')
-// // backPack.push('food')
+// backPack.push('sword')
+// backPack.push('shield')
+// backPack.push('food')
 
 // backPack.push('sword', 'shield', 'food')
 
-// // console.log(backPack)
+// console.log(backPack)
 
-// // let sword = backPack.shift()
+// let sword = backPack.shift()
 // let sword = backPack.splice(0, 1)
-// // backPack.unshift(sword[0])
+// backPack.unshift(sword[0])
 
 // let furCoat = 'fur coat'
 
@@ -23,15 +23,15 @@
 
 // backPack.push('flint', 'blanket', 'knife', 'toothbrush')
 
-// // console.log(backPack[0])
+// console.log(backPack[0])
 
-//     // for (let i = 0; i < backPack.length; i++){
-//     //     console.log(backPack[i])
-//     // }
+    // for (let i = 0; i < backPack.length; i++){
+    //     console.log(backPack[i])
+    // }
 
-//     // for (let i = 0; i < backPack2; i++){
-//     //     console.log(backPack2[i])
-//     // }
+    // for (let i = 0; i < backPack2; i++){
+    //     console.log(backPack2[i])
+    // }
 //     console.log(backPack)
 //     if (backPack.length >= 3){
 //         for(let i = 0; i < 3; i++){
